@@ -8,8 +8,13 @@ OBJETIVO: Desenvolver um Conversor de Moedas que ofereça interação textual (v
 - Seleção de moeda de destino a partir de um menu secundário.
 - Conversão de valores entre as moedas selecionadas.
 - Interface simples em linha de comando.
+- Histórico de conversões para visualizar as últimas conversões realizadas.
+- Suporte para uma ampla variedade de moedas.
+- Registros de logs das conversões, incluindo informações sobre as moedas convertidas e o horário da conversão.
+
 
 ## Pré-requisitos
 
 - Java 8 ou superior instalado.
 - Acesso à internet para obter as taxas de câmbio da API ExchangeRate-API.
+
